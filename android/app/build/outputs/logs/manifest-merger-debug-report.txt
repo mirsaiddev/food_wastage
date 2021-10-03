@@ -1,0 +1,787 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:1:1-48:12
+INJECTED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:1:1-48:12
+MERGED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:1:1-48:12
+MERGED from [:android_intent] D:\flutter_projects\food_wastage\build\android_intent\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:google_maps_flutter] D:\flutter_projects\food_wastage\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_plugin_android_lifecycle] D:\flutter_projects\food_wastage\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:geocoding] D:\flutter_projects\food_wastage\build\geocoding\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-23:12
+MERGED from [:cloud_firestore] D:\flutter_projects\food_wastage\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:geolocator_android] D:\flutter_projects\food_wastage\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] D:\flutter_projects\food_wastage\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:location] D:\flutter_projects\food_wastage\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [:workmanager] D:\flutter_projects\food_wastage\build\workmanager\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth] D:\flutter_projects\food_wastage\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] D:\flutter_projects\food_wastage\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\eeb7bea893fb9a1cc8a25af8a26d20b0\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:17:1-83:12
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\344ace233784effb9174841f21d736d5\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\0fd98f1b1249efd366b50707d7837da1\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9947ca09488c9964b8669e463f642c4d\jetified-firebase-common-20.0.0\AndroidManifest.xml:15:1-40:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9fdd720871eb43d1011f9760d89266f8\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.media:media:1.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\ee63c2bf1ba5aaea06d10e1fa7bfba70\media-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:17:1-143:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fc5087fbe13173432789bf9c0cfcffa3\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\cc767d7909b51efcc552065233259a57\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\19559b4921715b2bd614724e57c8e3e2\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\d183e9999f09c8e3a8ad905c8af78b4a\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\525a9ee16d0c2d7cf757a60436076c65\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c262c5b0ffd07ba9dba2c57a80922ee6\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\beadff8470832010379c8aff0e361096\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\61e858c1d58b0c41b1c1469536f5938c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\72b937c7a170750c1e9d03322487ffad\jetified-play-services-basement-17.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\16296fc2947d4288045803856dab21ab\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\dce6cae973483b2325c70a4066e20aff\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\165b6c28a5b08c2554b0891c880e18f6\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\2d31bf9deae7e7084b1391ef89eb31bf\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\0b0212055e8de639f5cfbdbe4dd57412\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\eaf41aa26f57fc0d30d1b07fb044b9d8\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\5cba553bc8b042f9e7081e5d3de11ddc\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\d44d80c42e686400a5c57b62eb967dec\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fe3069302149372cf2cc965e335abd68\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\1d07fad7074d1405539f2b2330dcea18\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\ef42f7452ddb34aa6cf65b37f333eb1d\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\045a904c4882c9493277171bbdb7a074\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\77f633fd3c15bfa52b6c5cfc163bc4c8\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\b828ecc67a9ae4e19ce560bd9e7dc3ce\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\6244e02cb1ab3091a79e3934cce4c9b3\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\d233fa9b201da4997c48fb3d6160e22a\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c1a7a0c345e79963656007e9d7fe3604\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\4fe4677af18f7af414e9afccfcedbe03\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\bfe7210a2b516a8723a7bb96b619eb58\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\e808dafc7d65069632f38dad81999d65\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\b0c09ceac2e5b4291e177d8798238344\room-runtime-2.2.5\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\de028a45dbdf47943da98901d77338b4\sqlite-framework-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\0fa7818d440f0d0633dfaa8976a3ab6f\sqlite-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\59f80ebefed7dc2cfd4c142023c8f384\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\bfb8512010bc73e29d99b4a0b3da2828\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\0f4c003807cc7f103b1990ecb65240bc\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\7c375be42d5ff704e6ed420dd3a8ff0f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\ed100734710ad2835f2bea558a4ce708\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\21bbd5caa6f2662c73f97566294a93c9\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\daab8433d3278b5ed834a73054df3d97\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c8634e9bbb31f937b645005597bf907c\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\73c143f434a796475a1d304d2b95aaad\jetified-grpc-android-1.28.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\8515519f8d05373b805475d6611ac66e\jetified-threetenabp-1.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\3b3d131c3e8d9aafd89d60d1bdb35187\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+INJECTED from D:\flutter_projects\food_wastage\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\flutter_projects\food_wastage\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\flutter_projects\food_wastage\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:2:5-36
+		INJECTED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\flutter_projects\food_wastage\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from D:\flutter_projects\food_wastage\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:1:1-48:12
+		INJECTED from D:\flutter_projects\food_wastage\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:3:4-78
+MERGED from [:location] D:\flutter_projects\food_wastage\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-79
+MERGED from [:location] D:\flutter_projects\food_wastage\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:3:21-75
+uses-permission#android.permission.INTERNET
+ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:4:4-65
+MERGED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:4:4-65
+MERGED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:4:4-65
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\344ace233784effb9174841f21d736d5\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\344ace233784effb9174841f21d736d5\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fc5087fbe13173432789bf9c0cfcffa3\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fc5087fbe13173432789bf9c0cfcffa3\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:4:21-63
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:5:4-76
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:28:5-77
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:5:21-73
+uses-permission#android.permission.ACCESS_BACKGROUND_LOCATION
+ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:6:4-83
+	android:name
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:6:21-81
+application
+ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:7:4-47:19
+MERGED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-21:19
+MERGED from [:cloud_firestore] D:\flutter_projects\food_wastage\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] D:\flutter_projects\food_wastage\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:location] D:\flutter_projects\food_wastage\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-16:19
+MERGED from [:location] D:\flutter_projects\food_wastage\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-16:19
+MERGED from [:firebase_auth] D:\flutter_projects\food_wastage\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] D:\flutter_projects\food_wastage\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\flutter_projects\food_wastage\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] D:\flutter_projects\food_wastage\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:26:5-81:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\344ace233784effb9174841f21d736d5\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\344ace233784effb9174841f21d736d5\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\0fd98f1b1249efd366b50707d7837da1\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\0fd98f1b1249efd366b50707d7837da1\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9947ca09488c9964b8669e463f642c4d\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9947ca09488c9964b8669e463f642c4d\jetified-firebase-common-20.0.0\AndroidManifest.xml:25:5-38:19
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:30:5-141:19
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:30:5-141:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fc5087fbe13173432789bf9c0cfcffa3\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fc5087fbe13173432789bf9c0cfcffa3\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\cc767d7909b51efcc552065233259a57\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\cc767d7909b51efcc552065233259a57\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\525a9ee16d0c2d7cf757a60436076c65\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\525a9ee16d0c2d7cf757a60436076c65\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c262c5b0ffd07ba9dba2c57a80922ee6\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c262c5b0ffd07ba9dba2c57a80922ee6\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\beadff8470832010379c8aff0e361096\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\beadff8470832010379c8aff0e361096\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\61e858c1d58b0c41b1c1469536f5938c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\61e858c1d58b0c41b1c1469536f5938c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\72b937c7a170750c1e9d03322487ffad\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\72b937c7a170750c1e9d03322487ffad\jetified-play-services-basement-17.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.2] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\b828ecc67a9ae4e19ce560bd9e7dc3ce\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\b828ecc67a9ae4e19ce560bd9e7dc3ce\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\b0c09ceac2e5b4291e177d8798238344\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\b0c09ceac2e5b4291e177d8798238344\room-runtime-2.2.5\AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\0f4c003807cc7f103b1990ecb65240bc\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\0f4c003807cc7f103b1990ecb65240bc\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\8515519f8d05373b805475d6611ac66e\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\8515519f8d05373b805475d6611ac66e\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\b828ecc67a9ae4e19ce560bd9e7dc3ce\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:8:9-37
+	android:icon
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:9:9-43
+activity#com.stop.food_wastage.MainActivity
+ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:10:9-38:20
+	android:launchMode
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:12:13-43
+	android:hardwareAccelerated
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:15:13-47
+	android:windowSoftInputMode
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:16:13-55
+	android:configChanges
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:14:13-163
+	android:theme
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:13:13-47
+	android:name
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:11:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:21:13-24:17
+	android:resource
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:23:15-52
+	android:name
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:22:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:30:13-33:17
+	android:resource
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:32:15-61
+	android:name
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:31:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:35:17-68
+	android:name
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:36:27-74
+meta-data#flutterEmbedding
+ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:41:9-43:33
+	android:value
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:43:13-30
+	android:name
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:42:13-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:44:9-45:73
+	android:value
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:45:16-71
+	android:name
+		ADDED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml:44:20-65
+uses-sdk
+INJECTED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml
+MERGED from [:android_intent] D:\flutter_projects\food_wastage\build\android_intent\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:android_intent] D:\flutter_projects\food_wastage\build\android_intent\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] D:\flutter_projects\food_wastage\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:google_maps_flutter] D:\flutter_projects\food_wastage\build\google_maps_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\flutter_projects\food_wastage\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\flutter_projects\food_wastage\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geocoding] D:\flutter_projects\food_wastage\build\geocoding\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geocoding] D:\flutter_projects\food_wastage\build\geocoding\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] D:\flutter_projects\food_wastage\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] D:\flutter_projects\food_wastage\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] D:\flutter_projects\food_wastage\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:geolocator_android] D:\flutter_projects\food_wastage\build\geolocator_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] D:\flutter_projects\food_wastage\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] D:\flutter_projects\food_wastage\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location] D:\flutter_projects\food_wastage\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:location] D:\flutter_projects\food_wastage\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:workmanager] D:\flutter_projects\food_wastage\build\workmanager\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:workmanager] D:\flutter_projects\food_wastage\build\workmanager\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] D:\flutter_projects\food_wastage\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] D:\flutter_projects\food_wastage\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\flutter_projects\food_wastage\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] D:\flutter_projects\food_wastage\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\eeb7bea893fb9a1cc8a25af8a26d20b0\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\eeb7bea893fb9a1cc8a25af8a26d20b0\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\344ace233784effb9174841f21d736d5\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\344ace233784effb9174841f21d736d5\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\0fd98f1b1249efd366b50707d7837da1\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\0fd98f1b1249efd366b50707d7837da1\jetified-firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9947ca09488c9964b8669e463f642c4d\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9947ca09488c9964b8669e463f642c4d\jetified-firebase-common-20.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9fdd720871eb43d1011f9760d89266f8\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9fdd720871eb43d1011f9760d89266f8\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\ee63c2bf1ba5aaea06d10e1fa7bfba70\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\ee63c2bf1ba5aaea06d10e1fa7bfba70\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fc5087fbe13173432789bf9c0cfcffa3\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fc5087fbe13173432789bf9c0cfcffa3\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\cc767d7909b51efcc552065233259a57\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\cc767d7909b51efcc552065233259a57\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\19559b4921715b2bd614724e57c8e3e2\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\19559b4921715b2bd614724e57c8e3e2\jetified-firebase-database-collection-18.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\d183e9999f09c8e3a8ad905c8af78b4a\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\d183e9999f09c8e3a8ad905c8af78b4a\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\525a9ee16d0c2d7cf757a60436076c65\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\525a9ee16d0c2d7cf757a60436076c65\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c262c5b0ffd07ba9dba2c57a80922ee6\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c262c5b0ffd07ba9dba2c57a80922ee6\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\beadff8470832010379c8aff0e361096\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\beadff8470832010379c8aff0e361096\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\61e858c1d58b0c41b1c1469536f5938c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\61e858c1d58b0c41b1c1469536f5938c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\72b937c7a170750c1e9d03322487ffad\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\72b937c7a170750c1e9d03322487ffad\jetified-play-services-basement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\16296fc2947d4288045803856dab21ab\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\16296fc2947d4288045803856dab21ab\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\dce6cae973483b2325c70a4066e20aff\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\dce6cae973483b2325c70a4066e20aff\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\165b6c28a5b08c2554b0891c880e18f6\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\165b6c28a5b08c2554b0891c880e18f6\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\2d31bf9deae7e7084b1391ef89eb31bf\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\2d31bf9deae7e7084b1391ef89eb31bf\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\0b0212055e8de639f5cfbdbe4dd57412\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\0b0212055e8de639f5cfbdbe4dd57412\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\eaf41aa26f57fc0d30d1b07fb044b9d8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\eaf41aa26f57fc0d30d1b07fb044b9d8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\5cba553bc8b042f9e7081e5d3de11ddc\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\5cba553bc8b042f9e7081e5d3de11ddc\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\d44d80c42e686400a5c57b62eb967dec\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\d44d80c42e686400a5c57b62eb967dec\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fe3069302149372cf2cc965e335abd68\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fe3069302149372cf2cc965e335abd68\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\1d07fad7074d1405539f2b2330dcea18\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\1d07fad7074d1405539f2b2330dcea18\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\ef42f7452ddb34aa6cf65b37f333eb1d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\ef42f7452ddb34aa6cf65b37f333eb1d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\045a904c4882c9493277171bbdb7a074\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\045a904c4882c9493277171bbdb7a074\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\77f633fd3c15bfa52b6c5cfc163bc4c8\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\77f633fd3c15bfa52b6c5cfc163bc4c8\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\b828ecc67a9ae4e19ce560bd9e7dc3ce\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\b828ecc67a9ae4e19ce560bd9e7dc3ce\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\6244e02cb1ab3091a79e3934cce4c9b3\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\6244e02cb1ab3091a79e3934cce4c9b3\jetified-lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\d233fa9b201da4997c48fb3d6160e22a\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\d233fa9b201da4997c48fb3d6160e22a\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c1a7a0c345e79963656007e9d7fe3604\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c1a7a0c345e79963656007e9d7fe3604\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\4fe4677af18f7af414e9afccfcedbe03\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\4fe4677af18f7af414e9afccfcedbe03\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\bfe7210a2b516a8723a7bb96b619eb58\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\bfe7210a2b516a8723a7bb96b619eb58\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\e808dafc7d65069632f38dad81999d65\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\e808dafc7d65069632f38dad81999d65\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\b0c09ceac2e5b4291e177d8798238344\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\b0c09ceac2e5b4291e177d8798238344\room-runtime-2.2.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\de028a45dbdf47943da98901d77338b4\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\de028a45dbdf47943da98901d77338b4\sqlite-framework-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\0fa7818d440f0d0633dfaa8976a3ab6f\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\0fa7818d440f0d0633dfaa8976a3ab6f\sqlite-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\59f80ebefed7dc2cfd4c142023c8f384\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\59f80ebefed7dc2cfd4c142023c8f384\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\bfb8512010bc73e29d99b4a0b3da2828\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\bfb8512010bc73e29d99b4a0b3da2828\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\0f4c003807cc7f103b1990ecb65240bc\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\0f4c003807cc7f103b1990ecb65240bc\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\7c375be42d5ff704e6ed420dd3a8ff0f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\7c375be42d5ff704e6ed420dd3a8ff0f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\ed100734710ad2835f2bea558a4ce708\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\ed100734710ad2835f2bea558a4ce708\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\21bbd5caa6f2662c73f97566294a93c9\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\21bbd5caa6f2662c73f97566294a93c9\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\daab8433d3278b5ed834a73054df3d97\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\daab8433d3278b5ed834a73054df3d97\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c8634e9bbb31f937b645005597bf907c\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c8634e9bbb31f937b645005597bf907c\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\73c143f434a796475a1d304d2b95aaad\jetified-grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\73c143f434a796475a1d304d2b95aaad\jetified-grpc-android-1.28.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\8515519f8d05373b805475d6611ac66e\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\8515519f8d05373b805475d6611ac66e\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\3b3d131c3e8d9aafd89d60d1bdb35187\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\3b3d131c3e8d9aafd89d60d1bdb35187\jetified-protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\flutter_projects\food_wastage\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\flutter_projects\food_wastage\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\flutter_projects\food_wastage\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\flutter_projects\food_wastage\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\flutter_projects\food_wastage\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:27:5-81
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:22-63
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-78
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-106
+	android:name
+		ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:19-103
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-20:20
+	android:name
+		ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-107
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-19:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-79
+	android:name
+		ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:25-76
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:17:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] D:\flutter_projects\food_wastage\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:25-79
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:cloud_firestore] D:\flutter_projects\food_wastage\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] D:\flutter_projects\food_wastage\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_auth] D:\flutter_projects\food_wastage\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\flutter_projects\food_wastage\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] D:\flutter_projects\food_wastage\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:74:9-80:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\344ace233784effb9174841f21d736d5\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\344ace233784effb9174841f21d736d5\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9947ca09488c9964b8669e463f642c4d\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9947ca09488c9964b8669e463f642c4d\jetified-firebase-common-20.0.0\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:76:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9947ca09488c9964b8669e463f642c4d\jetified-firebase-common-20.0.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9947ca09488c9964b8669e463f642c4d\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [:cloud_firestore] D:\flutter_projects\food_wastage\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+ADDED from [:cloud_firestore] D:\flutter_projects\food_wastage\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] D:\flutter_projects\food_wastage\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] D:\flutter_projects\food_wastage\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-134
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:location] D:\flutter_projects\food_wastage\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from [:location] D:\flutter_projects\food_wastage\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-78
+service#com.lyokone.location.FlutterLocationService
+ADDED from [:location] D:\flutter_projects\food_wastage\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:11:9-15:56
+	android:enabled
+		ADDED from [:location] D:\flutter_projects\food_wastage\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-35
+	android:exported
+		ADDED from [:location] D:\flutter_projects\food_wastage\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+	android:foregroundServiceType
+		ADDED from [:location] D:\flutter_projects\food_wastage\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-53
+	android:name
+		ADDED from [:location] D:\flutter_projects\food_wastage\build\location\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-71
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+ADDED from [:firebase_auth] D:\flutter_projects\food_wastage\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] D:\flutter_projects\food_wastage\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] D:\flutter_projects\food_wastage\build\firebase_auth\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] D:\flutter_projects\food_wastage\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] D:\flutter_projects\food_wastage\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] D:\flutter_projects\food_wastage\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-124
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\344ace233784effb9174841f21d736d5\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\344ace233784effb9174841f21d736d5\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:13:5-79
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fc5087fbe13173432789bf9c0cfcffa3\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fc5087fbe13173432789bf9c0cfcffa3\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\73c143f434a796475a1d304d2b95aaad\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.28.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\73c143f434a796475a1d304d2b95aaad\jetified-grpc-android-1.28.0\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:51:13-61:29
+service#com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:64:9-73:19
+	android:enabled
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:65:13-101
+intent-filter#action:name:com.google.firebase.auth.api.gms.service.START+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:68:13-72:29
+action#com.google.firebase.auth.api.gms.service.START
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:17-89
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:69:25-86
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:77:13-79:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:79:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.0.1] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\56c82d0736afeef34beb13c4bcc8edfc\jetified-firebase-auth-21.0.1\AndroidManifest.xml:78:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\344ace233784effb9174841f21d736d5\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\344ace233784effb9174841f21d736d5\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:23.0.3] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\344ace233784effb9174841f21d736d5\jetified-firebase-firestore-23.0.3\AndroidManifest.xml:21:17-111
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9947ca09488c9964b8669e463f642c4d\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9947ca09488c9964b8669e463f642c4d\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9947ca09488c9964b8669e463f642c4d\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9947ca09488c9964b8669e463f642c4d\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9947ca09488c9964b8669e463f642c4d\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\9947ca09488c9964b8669e463f642c4d\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:25:22-65
+provider#androidx.work.impl.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:31:9-37:35
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:33:13-68
+	android:multiprocess
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:36:13-40
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:32:13-69
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:39:9-44:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:42:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:43:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:44:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:41:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:40:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:45:9-51:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:48:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:49:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:50:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:51:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:47:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:46:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:52:9-57:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:55:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:56:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:57:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:53:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:59:9-64:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:62:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:63:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:64:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:61:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:60:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:65:9-75:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:68:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:69:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:70:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:67:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:66:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:71:13-74:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:72:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:72:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:73:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:73:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:76:9-86:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:79:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:80:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:81:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:78:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:77:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:82:13-85:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:83:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:83:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:84:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:84:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:87:9-97:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:90:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:91:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:92:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:89:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:88:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:93:13-96:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:94:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:94:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:95:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:95:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:98:9-107:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:101:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:102:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:103:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:100:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:99:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:104:13-106:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:105:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:105:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:108:9-119:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:111:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:112:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:113:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:110:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:109:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:114:13-118:29
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:116:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:116:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:117:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:117:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:120:9-129:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:123:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:124:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:125:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:122:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:121:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:126:13-128:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:127:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:127:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:130:9-140:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:133:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:134:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:135:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:136:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:132:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:131:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:137:13-139:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:138:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.4.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c792b180c0715d5fe2c4df64618351df\work-runtime-2.4.0\AndroidManifest.xml:138:25-85
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fc5087fbe13173432789bf9c0cfcffa3\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fc5087fbe13173432789bf9c0cfcffa3\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fc5087fbe13173432789bf9c0cfcffa3\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fc5087fbe13173432789bf9c0cfcffa3\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fc5087fbe13173432789bf9c0cfcffa3\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\fc5087fbe13173432789bf9c0cfcffa3\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c262c5b0ffd07ba9dba2c57a80922ee6\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c262c5b0ffd07ba9dba2c57a80922ee6\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c262c5b0ffd07ba9dba2c57a80922ee6\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\c262c5b0ffd07ba9dba2c57a80922ee6\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\72b937c7a170750c1e9d03322487ffad\jetified-play-services-basement-17.1.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\72b937c7a170750c1e9d03322487ffad\jetified-play-services-basement-17.1.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.1.0] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\72b937c7a170750c1e9d03322487ffad\jetified-play-services-basement-17.1.0\AndroidManifest.xml:24:13-58
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\b0c09ceac2e5b4291e177d8798238344\room-runtime-2.2.5\AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\b0c09ceac2e5b4291e177d8798238344\room-runtime-2.2.5\AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\b0c09ceac2e5b4291e177d8798238344\room-runtime-2.2.5\AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] C:\Users\Paradise\.gradle\caches\transforms-2\files-2.1\b0c09ceac2e5b4291e177d8798238344\room-runtime-2.2.5\AndroidManifest.xml:26:13-74

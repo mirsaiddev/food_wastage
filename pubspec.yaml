@@ -1,0 +1,42 @@
+name: food_wastage
+description: A new Flutter project.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  android_intent: ^2.0.2
+  cloud_firestore: ^2.4.0
+  cupertino_icons: ^1.0.2
+  dotted_line: ^3.0.0
+  firebase_auth: ^3.0.1
+  firebase_core: ^1.4.0
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^8.1.1
+  flutter_screenutil: ^5.0.0+2
+  geocoding: ^2.0.0
+  geolocator: ^7.4.0
+  google_maps_flutter: ^2.0.6
+  intl: ^0.17.0
+  location: ^4.3.0
+  ntp: ^2.0.0
+  random_string: ^2.3.1
+  salomon_bottom_bar: ^3.1.0
+  shared_preferences: ^2.0.6
+  syncfusion_flutter_sliders: ^19.2.51
+  workmanager: ^0.4.1
+
+dev_dependencies:
+  flutter_lints: ^1.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
