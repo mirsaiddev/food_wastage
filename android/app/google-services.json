@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "566747498880",
+        "project_id": "stop-food-wastage-2ae56",
+        "storage_bucket": "stop-food-wastage-2ae56.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:566747498880:android:bd95a1a1cdb61100fc5965",
+            "android_client_info": {
+                "package_name": "com.stop.food_wastage"
+            }
+        },
+        "oauth_client": [{
+                "client_id": "566747498880-lmlokn0ivuf8uhuc3m48msp39pblg3g5.apps.googleusercontent.com",
+                "client_type": 1,
+                "android_info": {
+                    "package_name": "com.stop.food_wastage",
+                    "certificate_hash": "db63f8da26bcb57d0ee14d7255019a215178f468"
+                }
+            },
+            {
+                "client_id": "566747498880-j96qgtqvctd3hnl36g7m10dbp08fnt21.apps.googleusercontent.com",
+                "client_type": 3
+            }
+        ],
+        "api_key": [{
+            "current_key": "AIzaSyDyPBO5gz4pS4Wk4SkwTccb88eASCSg_7A"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "566747498880-j96qgtqvctd3hnl36g7m10dbp08fnt21.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
